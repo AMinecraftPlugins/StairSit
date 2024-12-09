@@ -1,0 +1,31 @@
+# StairSit Plugin Configuration
+
+# Plugin Information
+name: StairSit
+version: '1.0'
+main: org.minecraft.plugins.StairSit
+api-version: '1.16'
+
+# Plugin Description
+# StairSit is a lightweight Minecraft plugin that allows players to sit on stairs.
+# It provides a simple and immersive experience where players can interact with
+# stairs as if they were sitting down. This plugin is ideal for roleplay servers,
+# adventure maps, or just adding a bit of realism to your world.
+
+# Features:
+# - Sit on any stair block with a right-click action.
+# - Supports all stair types in Minecraft.
+# - No complex setup or configuration required – simply install and use!
+# - Lightweight and efficient; does not affect server performance.
+# - Fully compatible with Minecraft 1.16+.
+
+# The plugin is designed to make the sitting mechanic simple, easy to use, and
+# non-intrusive. There are no complex settings or configurations to adjust –
+# just install and start sitting on stairs!
+
+# Configuration settings
+# This plugin does not require any configuration by default.
+# All settings are handled automatically by the plugin itself.
+#
+# If future versions of the plugin introduce settings, they will be listed here.
+# Please check back for updates to this configuration file when necessary.
