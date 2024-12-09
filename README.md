@@ -20,3 +20,6 @@ StairSit is a lightweight Minecraft plugin that allows players to sit on stairs.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Authors
+- **The SkipNight Team** - Initial work - [SkipNight Plugin](https://github.com/SkipNight/SkipNight)
