@@ -1,0 +1,20 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore IDE project files
+.idea/
+*.iml
+*.vscode/
+
+# Ignore build directory
+/build/
+/target/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore other potential build directories
+bin/
+out/
